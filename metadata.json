@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Skincare & Cosméticos",
+  "description": "Landing page premium de cosméticos, skincare e cuidados pessoais com integração para Mercado Livre e redes sociais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
